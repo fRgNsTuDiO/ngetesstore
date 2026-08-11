@@ -1,2 +1,2 @@
-# ngetes-store
+# doaingstore
 website ssrote
